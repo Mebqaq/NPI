@@ -3,7 +3,7 @@
 This repository contains the Jupyter Notebooks used to produce the analysis and figures presented in the manuscript.
 
 ## Data Requirements
-All datasets required to run these scripts should be placed in the relative `data` directory (`./data/`) before executing the notebooks.
+All datasets required to run these scripts should be placed in the relative `data` directory (`./data/`) before executing the notebooks. The dataset is available for download at https://figshare.com/s/22c8c2be0344bcfd7603.
 
 ## Code Structure
 
